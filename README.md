@@ -1,5 +1,4 @@
-#Sentiment Analysis
-Overview
+Sentiment Analysis
 
 This project is focused on analyzing the sentiment of text data, such as customer reviews, social media posts, or feedback. The goal is to classify a given piece of text as positive, negative, or neutral. Sentiment analysis plays an important role in understanding user opinions, improving customer experiences, and supporting business decisions.
 
